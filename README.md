@@ -1,7 +1,10 @@
 <div align="center">
-  # 👨🏻‍💻  **Alessandro Travi (@altrdev)**
-  
-  <hr>
+
+# 👨🏻‍💻 **Alessandro Travi (@altrdev)**
+
+<hr>
+
+
 </div>
 
 <!--
