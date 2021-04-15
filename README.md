@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👨🏻‍💻 **Alessandro Travi (@altrdev)**
+[![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
 
 <hr>
 
