@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👨🏻‍💻 **Alessandro Travi (@altrdev)**
-[![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
+[![](https://img.shields.io/badge/OS-Air%20M1-informational?style=for-the-badge&logo=apple&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
+[![](https://img.shields.io/badge/IDE-Webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
 
 <hr>
 
