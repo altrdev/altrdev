@@ -13,7 +13,7 @@
 
 [![](https://img.shields.io/badge/IaC-Serverless-informational?style=for-the-badge&logo=serverless&logoColor=white&color=383bdb)](https://www.serverless.com/)
 [![](https://img.shields.io/badge/IaC-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=383bdb)](https://www.terraform.io/)
-[![](https://img.shields.io/badge/IaC-Cloudformation-informational?style=for-the-badge&logo=amazon%20awst&logoColor=white&color=383bdb)](https://aws.amazon.com/cloudformation/)
+[![](https://img.shields.io/badge/IaC-Cloudformation-informational?style=for-the-badge&logo=amazon%20aws&logoColor=white&color=383bdb)](https://aws.amazon.com/cloudformation/)
 
 <hr>
 
