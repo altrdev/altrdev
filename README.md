@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 **Alessandro Travi (@altrdev)**
 
-[![](https://img.shields.io/badge/OS-Air%20M1-informational?style=for-the-badge&logo=apple&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
+[![](https://img.shields.io/badge/OS-MBP%20M1-informational?style=for-the-badge&logo=apple&logoColor=white&color=177972)](https://www.apple.com/it/macos/)
 [![](https://img.shields.io/badge/IDE-Webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=177972)](https://www.jetbrains.com/webstorm/)
 [![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=for-the-badge&logo=intellij%20idea&logoColor=white&color=177972)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=177972)](https://code.visualstudio.com/)
